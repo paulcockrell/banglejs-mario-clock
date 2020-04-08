@@ -3,6 +3,9 @@ Let's go back in time with this Gameboy inspired Mario retro clock.
 
 Enjoy watching Mario, or one of the other game characters run through a level while showing you the time and date.
 
+Buy a BangleJS watch [here](https://banglejs.com)
+Install this Mario Clock from the BangleJS [app store](https://banglejs.com/apps/#clock)
+
 ## Characters
 
 ![](mario-clock-mario.png)
