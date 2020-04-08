@@ -4,6 +4,9 @@ Let's go back in time with this Gameboy inspired Mario retro clock.
 Enjoy watching Mario, or one of the other game characters run through a level while showing you the time and date.
 
 ![](mario-clock-screen-shot.png)
+![](mario-clock-toad.png)
+![](mario-clock-daisy.png)
+![](mario-clock-screen-shot.gif)
 
 ## Features
 
